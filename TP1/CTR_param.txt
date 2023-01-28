@@ -1,0 +1,12 @@
+% Parameters
+dr = pi/200; rotation angle (rad)
+R1 = 2.8e-3; Radius of external tube 1
+r1 = 2.5e-3; Radius of internal tube 1
+R2 = 2.1e-3; Radius of external tube 2
+r2 = 1.9e-3; Radius of internal tube 1
+k1 = 10;     Curvature of tube 1
+k2 = 100;    Curvature of tube 2
+p1 = 2*dr;   Angle of rotation of tube 1
+p2 = 60*dr;  Angle of rotation of tube 2
+l1 = 0.02;   Section length of tube 1
+l2 = 0.02;   Section length of tube 2
