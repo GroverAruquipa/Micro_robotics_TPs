@@ -32,7 +32,7 @@ This project is fully developed in matlab an external simulator for the parallel
 Contributors names and contact info
 
 
-[@Sameh Meziane](https://groveraruquipa.github.io/)  
+[@Sameh Mesiane](https://groveraruquipa.github.io/)  
 [@GroverAruquipa](https://groveraruquipa.github.io/)
 
 
